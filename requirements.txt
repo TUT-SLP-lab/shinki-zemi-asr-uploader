@@ -1,6 +1,11 @@
 certifi==2025.4.26
+cffi==1.17.1
 charset-normalizer==3.4.1
 idna==3.10
+numpy==2.2.5
+pycparser==2.22
 python-dotenv==1.1.0
 requests==2.32.3
+SoundCard==0.4.4
+soundfile==0.13.1
 urllib3==2.4.0
